@@ -199,34 +199,34 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"Credits: Valdo Romao https:\/\/www.linkedin.com\/in\/valdo-romao\/ \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
-        },
-   {
-     "name":"mapDescription",
-     "type":"string",
-     "value":"A perfect virtual office to get started with WorkAdventure!"
-   },
-   {
-     "name":"mapImage",
-     "type":"string",
-     "value":"map.png"
-   },
-   {
-     "name":"mapLink",
-     "type":"string",
-     "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
-   },
-   {
-     "name":"mapName",
-     "type":"string",
-     "value":"Starter kit"
-   },
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"A perfect virtual office to get started with WorkAdventure!"
+        }, 
+        {
+         "name":"mapImage",
+         "type":"string",
+         "value":"map.png"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Starter kit"
+        }, 
         {
          "name":"script",
          "type":"string",
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -332,6 +332,19 @@
                          "value":true
                         }]
                 }],
+         "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":455,
+         "image":"src\/assets\/fantasy_CCC.png",
+         "imageheight":4256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"fantasy_CCC",
+         "spacing":0,
+         "tilecount":1064,
+         "tileheight":32,
          "tilewidth":32
         }],
  "tilewidth":32,

@@ -357,6 +357,19 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":455,
+         "image":"src\/assets\/fantasy_CCC.png",
+         "imageheight":4256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"fantasy_CCC",
+         "spacing":0,
+         "tilecount":1064,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
