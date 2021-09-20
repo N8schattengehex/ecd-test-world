@@ -107,7 +107,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ecd\/test\/b\u00fchne"
+                 "value":"map-2-stage.json"
                 }],
          "type":"tilelayer",
          "visible":true,
