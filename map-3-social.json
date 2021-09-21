@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/n8schattengehex.github.io\/ecd-test-world\/map-1-reception.json"
+                 "value":"map-1-reception.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/n8schattengehex.github.io\/ecd-test-world\/map-4-secret.json"
+                 "value":"map-4-secret.json"
                 }],
          "type":"tilelayer",
          "visible":true,
